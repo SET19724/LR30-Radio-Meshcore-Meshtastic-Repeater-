@@ -5,3 +5,8 @@ W repozytorium znajduje się folder z kompletnymi plikami produkcyjnymi, które 
 This is an early version of a PCB designed for the LR30 radio module. The project is still under development and has not been tested yet, so it may require adjustments.
 
 The repository includes a folder with complete manufacturing files that can be sent directly to JLCPCB to produce your own prototypes and test the board yourself.
+
+<p float="left">
+  <img src="PHOTOS/1.png" width="300">
+  <img src="PHOTOS/2.png" width="300">
+</p>
