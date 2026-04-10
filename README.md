@@ -20,7 +20,7 @@ The repository includes a folder with complete manufacturing files that can be s
 
 | Element / Part | Opis / Description | Link |
 |----------------|-------------------|------|
-| **Guzik 3*6*4.3mm / Button** | Tactile switch | https://s.click.aliexpress.com/e/_c45q3wJj |
+| **Guzik 3x6x4.3mm / Button** | Tactile switch | https://s.click.aliexpress.com/e/_c45q3wJj |
 | **Pro Micro NRF** | Moduł sterujący / controller module | https://s.click.aliexpress.com/e/_c35eE1rf |
 | **Rezystory 0805 / Resistors 0805** | Standard SMD resistors | https://s.click.aliexpress.com/e/_c3W7grmd |
 | **Kondensatory 0805 / Capacitors 0805** | Standard SMD capacitors | https://s.click.aliexpress.com/e/_c32s48df |
