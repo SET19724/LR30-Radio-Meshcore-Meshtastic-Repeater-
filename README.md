@@ -11,4 +11,5 @@ The repository includes a folder with complete manufacturing files that can be s
 <p float="left">
   <img src="PHOTOS/1.png" width="300">
   <img src="PHOTOS/2.png" width="300">
+  <img src="PHOTOS/Schematic 0,1.png" width="300">
 </p>
