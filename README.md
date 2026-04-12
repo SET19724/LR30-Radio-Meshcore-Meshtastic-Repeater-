@@ -30,8 +30,6 @@ The repository includes a folder with complete manufacturing files that can be s
 | **Socket 6×2** | Pin header | https://s.click.aliexpress.com/e/_c39IAtdF |
 | **LR30 LORA Moduł Radiowy 900M22SP(868Mhz)** | LR30 LORA RADIO MODULE 900M22SP(868Mhz) | https://s.click.aliexpress.com/e/_c3OkUrO5 |
 
-<p float="left">
-  <img src="PHOTOS/1.png" width="300">
-  <img src="PHOTOS/2.png" width="300">
-  <img src="PHOTOS/Schematic 0,1.png" width="300">
-</p>
+![](PHOTOS/1.png)
+![](PHOTOS/2.png)
+![](PHOTOS/Schematic0,1.png)
